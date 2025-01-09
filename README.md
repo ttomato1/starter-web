@@ -7,3 +7,6 @@ Thisis a simple website showing how git works
 Sample website with plenty of files for demos
 
 ## How to contribute
+
+## new section
+Wont' stage this one 
